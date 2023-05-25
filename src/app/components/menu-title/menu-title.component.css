@@ -1,15 +1,18 @@
 .container_menu-title {
     color: #ffffff;
+    
 
 }
 
 .container_menu-title > h1 {
+    color: #111111;
     margin-top: 15px;
     margin-bottom: 15px;
     font-size: 150px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
+    background-image: url('https://oxentesensei.com.br/wp-content/uploads/2021/03/marvel-comics-capa.jpg.webp');
 }
 
 .container_menu-title > hr {
